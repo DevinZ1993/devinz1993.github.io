@@ -1,0 +1,46 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; 
+}
+
+footer {
+    margin: 0px 0;
+}
+
+.contact-box {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+    text-align:center;
+    min-width:290px;
+}
+
+.contact-icon {
+    width:13px;
+}
+
+.post-year-div {
+    font-size:30px;
+    min-width:125px;
+    text-align:left;
+}
+
+.post-month-div {
+    width:11%;
+    float:left;
+    font-size:20px;
+    min-width:65px;
+    text-align:left;
+}
+
+.post-title-div {
+    width:89%;
+    float:right;
+    font-size:20px;
+    text-align:left;
+}
